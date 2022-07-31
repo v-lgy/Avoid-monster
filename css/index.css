@@ -50,3 +50,8 @@ img{
     height: 30px;
     vertical-align: middle;
 }
+
+.hero{
+    left: 50%;
+    top: 50%;
+}
